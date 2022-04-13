@@ -29,6 +29,7 @@ public enum ProfileType {
     public static final String MYSQL = "mysql";
 
     public static final String POSTGRESQL = "postgresql";
+    public static final String ORACLE = "oracle";
 
     public static final List<String> DATASOURCE_PROFILE = Lists.newArrayList(H2, MYSQL, POSTGRESQL);
 }

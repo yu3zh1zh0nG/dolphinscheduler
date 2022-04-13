@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    username: ds
+    password: 123456
+    url: jdbc:oracle:thin:@//wslhost:1521/helowin
